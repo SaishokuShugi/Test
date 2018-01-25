@@ -1,11 +1,14 @@
 
-public class main {
+public class main 
+{
 
-	public main() {
+	public main() 
+	{
 		// TODO Stub du constructeur généré automatiquement
 	}
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		// TODO Stub de la méthode généré automatiquement
 		System.out.println("Roland est une bite en info");
 		System.out.println("LOL");
